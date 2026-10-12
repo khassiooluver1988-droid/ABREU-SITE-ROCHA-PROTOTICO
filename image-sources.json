@@ -1,0 +1,201 @@
+{
+  "silestone": {
+    "image": "assets/silestone.jpg",
+    "url": "https://assetsstatic.cosentino.com/core-nueva-visual/encimeras-silestone/hero/silestone-kitchen-eu-lechic-bohemiam-flame.jpg?h=2000&q=90&w=2000",
+    "bytes": 278752
+  },
+  "verde-ubatuba": {
+    "image": "assets/verde-ubatuba.jpg",
+    "url": "https://irp.cdn-website.com/ae97fc85/dms3rep/multi/opt/granito-Ubatuba-1920w.jpg",
+    "bytes": 232873
+  },
+  "preto-absoluto": {
+    "image": "assets/preto-absoluto.jpg",
+    "url": "https://irp.cdn-website.com/ae97fc85/dms3rep/multi/opt/preto-absoluto-1920w.jpg",
+    "bytes": 16224
+  },
+  "branco-dallas": {
+    "image": "assets/branco-dallas.jpg",
+    "url": "https://irp.cdn-website.com/ae97fc85/dms3rep/multi/opt/granito-branco-dallas-1920w.jpg",
+    "bytes": 118108
+  },
+  "cinza-andorinha": {
+    "image": "assets/cinza-andorinha.jpg",
+    "url": "https://irp.cdn-website.com/ae97fc85/dms3rep/multi/opt/granito-cinza-andorinha-1920w.jpg",
+    "bytes": 156491
+  },
+  "cozinha-simples": {
+    "image": "assets/cozinha-simples.jpg",
+    "url": "https://www.quintoandar.com.br/img/crop/square/1200x1200/893378435-13.708905905745915IMG25.JPG",
+    "bytes": 86065
+  },
+  "preto-sao-gabriel": {
+    "image": "assets/preto-sao-gabriel.jpg",
+    "url": "https://marmorariafioretti.com/wp-content/uploads/2017/09/granito-preto-sao-gabrel-standard-400x400.jpg",
+    "bytes": 41552
+  },
+  "corumba": {
+    "image": "assets/corumba.jpg",
+    "url": "https://marmorariafioretti.com/wp-content/uploads/2017/03/600x600-granito-cinza-corumba-400x400.jpg",
+    "bytes": 53832
+  },
+  "branco-alfa": {
+    "image": "assets/branco-alfa.jpg",
+    "url": "https://oficial.dcmg.com.br/wp-content/uploads/2025/02/21-Branco-Alfa.jpg",
+    "bytes": 23659
+  },
+  "nanoglass": {
+    "image": "assets/nanoglass.jpg",
+    "url": "https://alicante.com.br/wp-content/uploads/2021/06/Nanoglass-04.jpg",
+    "bytes": 34392
+  },
+  "banheiro-simples": {
+    "image": "assets/vidro-box-preto.jpg",
+    "source": "Referência de banheiro enviada pelo cliente, images (35).jfif"
+  },
+  "mesa-simples": {
+    "image": "assets/mesa-simples.jpg",
+    "url": "https://product-hub-prd.madeiramadeira.com.br/880731/images/118fa212-8c29-417c-a5be-a52da218481aebabranco1706291260200zoom.jpg",
+    "bytes": 232791
+  },
+  "rocha-logo": {
+    "image": "assets/rocha-logo-transparente.png",
+    "source": "Logotipo Luxuoso Rocha em Mármore e Vidro (1).png — fornecido pelo cliente; as duas imagens enviadas são idênticas.",
+    "processing": "Fundo removido com imagegen; PNG RGBA com transparência.",
+    "bytes": 1465466,
+    "website_typography": "Atualização 008: a parte gráfica original é exibida sem as linhas escuras inferiores; REPRESENTAÇÕES e MÁRMORE, GRANITO, GRANILHO E VIDRO são compostos em HTML, na cor branca, para preservar nitidez e legibilidade em todas as telas."
+  },
+  "branco-alpha-pdf": {
+    "image": "assets/branco-alpha-pdf.png",
+    "source": "Catalogo_Marmores_e_Granitos_Nacionais (12).pdf, página 7 — fornecido pelo cliente",
+    "kind": "Simulação gráfica de tonalidade; não é fotografia da chapa",
+    "processing": "Imagem incorporada extraída sem alteração do PDF"
+  },
+  "catalog-text": {
+    "source": "Catalogo_Marmores_e_Granitos_Nacionais (12).pdf, páginas 2 a 10 — fornecido pelo cliente",
+    "local_copy": "catalogos/catalogo-materiais-rocha.pdf",
+    "note": "Descrição, usos, qualidade e cuidados resumidos. O PDF original não foi alterado. Os modelos de vidro são referências fornecidas anteriormente."
+  },
+  "aplicacao-preto-sao-gabriel": {
+    "image": "assets/aplicacao-preto-sao-gabriel.png",
+    "kind": "AI-generated application illustration",
+    "source": "Imagem de aplicação gerada com imagegen para a atualização 007; não representa obra executada pela Rocha.",
+    "prompt": "Use case: product-mockup. Asset type: fotografia ilustrativa de aplicação para catálogo de pedras de um site de representação comercial.\nInput image: a imagem anexada é a referência exata da aparência e granulação da pedra. Transforme a amostra plana em uma nova cena de aplicação. Preserve as cores, textura, escala real dos grãos e característica material da referência; não reproduza a placa isolada.\nPrimary request: mostrar uma bancada de cozinha residencial brasileira, pia inox embutida e pequeno frontão, armários claros e madeira utilizando granito Preto São Gabriel escuro com granulação mineral irregular discreta. A pedra aplicada deve ocupar ao menos metade da área da imagem e ter acabamento com espessura realista de 2 a 3 cm. Composição horizontal 1536x1024, ângulo três-quartos, foco e detalhe nítidos no tampo. Estilo de fotografia de interiores residencial realista, escala modesta de casa ou apartamento brasileiro, luz natural suave, tons neutros, encanamento e cuba fisicamente plausíveis. Uma única cena sem colagem. Sem pessoas, sem texto, sem logotipos, sem marcas, sem assinatura, sem selo. A imagem será identificada no site como ilustração de aplicação e não como obra realizada; não inserir qualquer legenda na imagem."
+  },
+  "aplicacao-verde-ubatuba": {
+    "image": "assets/aplicacao-verde-ubatuba.png",
+    "kind": "AI-generated application illustration",
+    "source": "Imagem de aplicação gerada com imagegen para a atualização 007; não representa obra executada pela Rocha.",
+    "prompt": "Use case: product-mockup. Asset type: fotografia ilustrativa de aplicação para catálogo de pedras de um site de representação comercial.\nInput image: a imagem anexada é a referência exata da aparência e granulação da pedra. Transforme a amostra plana em uma nova cena de aplicação. Preserve as cores, textura, escala real dos grãos e característica material da referência; não reproduza a placa isolada.\nPrimary request: mostrar uma bancada e balcão de cozinha residencial brasileira, pia inox embutida, armários em madeira natural utilizando granito Verde Ubatuba, verde muito escuro com pontilhado mineral sutil, nunca verde vivo. A pedra aplicada deve ocupar ao menos metade da área da imagem e ter acabamento com espessura realista de 2 a 3 cm. Composição horizontal 1536x1024, ângulo três-quartos, foco e detalhe nítidos no tampo. Estilo de fotografia de interiores residencial realista, escala modesta de casa ou apartamento brasileiro, luz natural suave, tons neutros, encanamento e cuba fisicamente plausíveis. Uma única cena sem colagem. Sem pessoas, sem texto, sem logotipos, sem marcas, sem assinatura, sem selo. A imagem será identificada no site como ilustração de aplicação e não como obra realizada; não inserir qualquer legenda na imagem."
+  },
+  "aplicacao-cinza-andorinha": {
+    "image": "assets/aplicacao-cinza-andorinha.png",
+    "kind": "AI-generated application illustration",
+    "source": "Imagem de aplicação gerada com imagegen para a atualização 007; não representa obra executada pela Rocha.",
+    "prompt": "Use case: product-mockup. Asset type: fotografia ilustrativa de aplicação para catálogo de pedras de um site de representação comercial.\nInput image: a imagem anexada é a referência exata da aparência e granulação da pedra. Transforme a amostra plana em uma nova cena de aplicação. Preserve as cores, textura, escala real dos grãos e característica material da referência; não reproduza a placa isolada.\nPrimary request: mostrar uma bancada de lavanderia residencial brasileira com tanque branco embutido e armários brancos utilizando granito Cinza Andorinha de granulação pequena uniforme cinza claro com pontilhado preto. A pedra aplicada deve ocupar ao menos metade da área da imagem e ter acabamento com espessura realista de 2 a 3 cm. Composição horizontal 1536x1024, ângulo três-quartos, foco e detalhe nítidos no tampo. Estilo de fotografia de interiores residencial realista, escala modesta de casa ou apartamento brasileiro, luz natural suave, tons neutros, encanamento e cuba fisicamente plausíveis. Uma única cena sem colagem. Sem pessoas, sem texto, sem logotipos, sem marcas, sem assinatura, sem selo. A imagem será identificada no site como ilustração de aplicação e não como obra realizada; não inserir qualquer legenda na imagem."
+  },
+  "aplicacao-corumba": {
+    "image": "assets/aplicacao-corumba.png",
+    "kind": "AI-generated application illustration",
+    "source": "Imagem de aplicação gerada com imagegen para a atualização 007; não representa obra executada pela Rocha.",
+    "prompt": "Use case: product-mockup. Asset type: fotografia ilustrativa de aplicação para catálogo de pedras de um site de representação comercial.\nInput image: a imagem anexada é a referência exata da aparência e granulação da pedra. Transforme a amostra plana em uma nova cena de aplicação. Preserve as cores, textura, escala real dos grãos e característica material da referência; não reproduza a placa isolada.\nPrimary request: mostrar uma bancada de cozinha compacta residencial brasileira, pia de inox embutida e marcenaria branca utilizando granito Cinza Corumbá de granulação cinza irregular com contraste branco e preto. A pedra aplicada deve ocupar ao menos metade da área da imagem e ter acabamento com espessura realista de 2 a 3 cm. Composição horizontal 1536x1024, ângulo três-quartos, foco e detalhe nítidos no tampo. Estilo de fotografia de interiores residencial realista, escala modesta de casa ou apartamento brasileiro, luz natural suave, tons neutros, encanamento e cuba fisicamente plausíveis. Uma única cena sem colagem. Sem pessoas, sem texto, sem logotipos, sem marcas, sem assinatura, sem selo. A imagem será identificada no site como ilustração de aplicação e não como obra realizada; não inserir qualquer legenda na imagem."
+  },
+  "aplicacao-branco-dallas": {
+    "image": "assets/aplicacao-branco-dallas.png",
+    "kind": "AI-generated application illustration",
+    "source": "Imagem de aplicação gerada com imagegen para a atualização 007; não representa obra executada pela Rocha.",
+    "prompt": "Use case: product-mockup. Asset type: fotografia ilustrativa de aplicação para catálogo de pedras de um site de representação comercial.\nInput image: a imagem anexada é a referência exata da aparência e granulação da pedra. Transforme a amostra plana em uma nova cena de aplicação. Preserve as cores, textura, escala real dos grãos e característica material da referência; não reproduza a placa isolada.\nPrimary request: mostrar uma ilha com bancada de cozinha residencial brasileira, armários amadeirados e pia inox ao fundo utilizando granito Branco Dallas, fundo claro branco-cinza com cristais e pequenos pontos pretos. A pedra aplicada deve ocupar ao menos metade da área da imagem e ter acabamento com espessura realista de 2 a 3 cm. Composição horizontal 1536x1024, ângulo três-quartos, foco e detalhe nítidos no tampo. Estilo de fotografia de interiores residencial realista, escala modesta de casa ou apartamento brasileiro, luz natural suave, tons neutros, encanamento e cuba fisicamente plausíveis. Uma única cena sem colagem. Sem pessoas, sem texto, sem logotipos, sem marcas, sem assinatura, sem selo. A imagem será identificada no site como ilustração de aplicação e não como obra realizada; não inserir qualquer legenda na imagem."
+  },
+  "aplicacao-branco-alfa": {
+    "image": "assets/aplicacao-branco-alfa.png",
+    "kind": "AI-generated application illustration",
+    "source": "Imagem de aplicação gerada com imagegen para a atualização 007; não representa obra executada pela Rocha.",
+    "prompt": "Use case: product-mockup. Asset type: fotografia ilustrativa de aplicação para catálogo de pedras de um site de representação comercial.\nInput image: a imagem anexada é a referência exata da aparência e granulação da pedra. Transforme a amostra plana em uma nova cena de aplicação. Preserve as cores, textura, escala real dos grãos e característica material da referência; não reproduza a placa isolada.\nPrimary request: mostrar uma bancada de banheiro residencial brasileiro com cuba de apoio branca e gabinete de madeira utilizando granito Branco Alpha/Alfa claro branco-cinza com pontilhado mineral muito sutil. A pedra aplicada deve ocupar ao menos metade da área da imagem e ter acabamento com espessura realista de 2 a 3 cm. Composição horizontal 1536x1024, ângulo três-quartos, foco e detalhe nítidos no tampo. Estilo de fotografia de interiores residencial realista, escala modesta de casa ou apartamento brasileiro, luz natural suave, tons neutros, encanamento e cuba fisicamente plausíveis. Uma única cena sem colagem. Sem pessoas, sem texto, sem logotipos, sem marcas, sem assinatura, sem selo. A imagem será identificada no site como ilustração de aplicação e não como obra realizada; não inserir qualquer legenda na imagem."
+  },
+  "aplicacao-preto-absoluto": {
+    "image": "assets/aplicacao-preto-absoluto.png",
+    "kind": "AI-generated application illustration",
+    "source": "Imagem de aplicação gerada com imagegen para a atualização 007; não representa obra executada pela Rocha.",
+    "prompt": "Use case: product-mockup. Asset type: fotografia ilustrativa de aplicação para catálogo de pedras de um site de representação comercial.\nInput image: a imagem anexada é a referência exata da aparência e granulação da pedra. Transforme a amostra plana em uma nova cena de aplicação. Preserve as cores, textura, escala real dos grãos e característica material da referência; não reproduza a placa isolada.\nPrimary request: mostrar uma bancada de lavabo residencial brasileiro com cuba branca e marcenaria amadeirada utilizando pedra comercial Preto Absoluto polida preta muito homogênea com microgranulação imperceptível. A pedra aplicada deve ocupar ao menos metade da área da imagem e ter acabamento com espessura realista de 2 a 3 cm. Composição horizontal 1536x1024, ângulo três-quartos, foco e detalhe nítidos no tampo. Estilo de fotografia de interiores residencial realista, escala modesta de casa ou apartamento brasileiro, luz natural suave, tons neutros, encanamento e cuba fisicamente plausíveis. Uma única cena sem colagem. Sem pessoas, sem texto, sem logotipos, sem marcas, sem assinatura, sem selo. A imagem será identificada no site como ilustração de aplicação e não como obra realizada; não inserir qualquer legenda na imagem."
+  },
+  "aplicacao-nanoglass": {
+    "image": "assets/aplicacao-nanoglass.png",
+    "kind": "AI-generated application illustration",
+    "source": "Imagem de aplicação gerada com imagegen para a atualização 007; não representa obra executada pela Rocha.",
+    "prompt": "Use case: product-mockup. Asset type: fotografia ilustrativa de aplicação para catálogo de pedras de um site de representação comercial.\nInput image: a imagem anexada é a referência exata da aparência e granulação da pedra. Transforme a amostra plana em uma nova cena de aplicação. Preserve as cores, textura, escala real dos grãos e característica material da referência; não reproduza a placa isolada.\nPrimary request: mostrar uma bancada de banheiro residencial brasileiro com cuba de apoio branca e gabinete de madeira utilizando superfície Nano Glass branca homogênea brilhante, sem veios e sem granulação. A pedra aplicada deve ocupar ao menos metade da área da imagem e ter acabamento com espessura realista de 2 a 3 cm. Composição horizontal 1536x1024, ângulo três-quartos, foco e detalhe nítidos no tampo. Estilo de fotografia de interiores residencial realista, escala modesta de casa ou apartamento brasileiro, luz natural suave, tons neutros, encanamento e cuba fisicamente plausíveis. Uma única cena sem colagem. Sem pessoas, sem texto, sem logotipos, sem marcas, sem assinatura, sem selo. A imagem será identificada no site como ilustração de aplicação e não como obra realizada; não inserir qualquer legenda na imagem."
+  },
+  "aplicacao-marmore": {
+    "image": "assets/aplicacao-marmore.png",
+    "kind": "AI-generated application illustration",
+    "source": "Imagem de aplicação gerada com imagegen para a atualização 007; não representa obra executada pela Rocha.",
+    "prompt": "Use case: product-mockup. Asset type: fotografia ilustrativa de aplicação para catálogo de pedras de um site de representação comercial.\nPrimary request: mostrar uma bancada de lavabo residencial brasileiro com cuba branca sobre um tampo de mármore branco com veios suaves cinza e gabinete amadeirado utilizando mármore branco genérico com veios cinza, sem nome comercial ou promessa de modelo disponível. A pedra aplicada deve ocupar ao menos metade da área da imagem e ter acabamento com espessura realista de 2 a 3 cm. Composição horizontal 1536x1024, ângulo três-quartos, foco e detalhe nítidos no tampo. Estilo de fotografia de interiores residencial realista, escala modesta de casa ou apartamento brasileiro, luz natural suave, tons neutros, encanamento e cuba fisicamente plausíveis. Uma única cena sem colagem. Sem pessoas, sem texto, sem logotipos, sem marcas, sem assinatura, sem selo. A imagem será identificada no site como ilustração de aplicação e não como obra realizada; não inserir qualquer legenda na imagem."
+  },
+  "marble-indications": {
+    "source": "Alicante — categoria Mármore",
+    "url": "https://alicante.com.br/produtos/categoria/marmore/",
+    "note": "Indicações gerais: lavabos, tampos, mesas e revestimentos de pisos e paredes. Não confirma modelos disponíveis na Rocha."
+  },
+  "homepage-applications": {
+    "hero": "assets/aplicacao-nanoglass.png — ilustração gerada de uma bancada em Nano Glass, com gradiente escuro semitransparente aplicado em CSS.",
+    "beside_logo": [
+      "assets/vidro-guarda-corpo.jpg — referência fornecida pelo cliente",
+      "assets/aplicacao-marmore.png — ilustração gerada de bancada de lavabo",
+      "assets/aplicacao-preto-sao-gabriel.png — ilustração gerada de bancada de cozinha"
+    ],
+    "note": "As ilustrações não representam obras executadas pela Rocha."
+  },
+  "vidro-catalogo-box-banheiro": {
+    "image": "assets/vidro-catalogo-box-banheiro.jpg",
+    "url": "https://www.vidroscristalcenter.com.br/assets/img/img-mpi/box-para-banheiro-pequeno-1.jpg",
+    "bytes": 37393,
+    "source": "Catálogo_Vidros_Imagens.html — fornecido pelo cliente. Fotografias: Vidros Cristal Center.",
+    "processing": "Fotografia original baixada e incorporada sem alteração.",
+    "kind": "reference"
+  },
+  "vidro-catalogo-cuba-vidro": {
+    "image": "assets/vidro-catalogo-cuba-vidro.jpg",
+    "url": "https://www.vidroscristalcenter.com.br/assets/img/img-mpi/cuba-de-vidro-1.jpg",
+    "bytes": 39131,
+    "source": "Catálogo_Vidros_Imagens.html — fornecido pelo cliente. Fotografias: Vidros Cristal Center.",
+    "processing": "Fotografia original baixada e incorporada sem alteração.",
+    "kind": "reference"
+  },
+  "vidro-catalogo-janela-madeira-vidro": {
+    "image": "assets/vidro-catalogo-janela-madeira-vidro.jpg",
+    "url": "https://www.vidroscristalcenter.com.br/assets/img/img-mpi/janela-de-madeira-com-vidro-1.jpg",
+    "bytes": 43319,
+    "source": "Catálogo_Vidros_Imagens.html — fornecido pelo cliente. Fotografias: Vidros Cristal Center.",
+    "processing": "Fotografia original baixada e incorporada sem alteração.",
+    "kind": "reference"
+  },
+  "vidro-catalogo-janela-vidro-temperado": {
+    "image": "assets/vidro-catalogo-janela-vidro-temperado.jpg",
+    "url": "https://www.vidroscristalcenter.com.br/assets/img/img-mpi/janela-de-vidro-temperado-1.jpg",
+    "bytes": 61352,
+    "source": "Catálogo_Vidros_Imagens.html — fornecido pelo cliente. Fotografias: Vidros Cristal Center.",
+    "processing": "Fotografia original baixada e incorporada sem alteração.",
+    "kind": "reference"
+  },
+  "vidro-catalogo-porta-vidro-banheiro": {
+    "image": "assets/vidro-catalogo-porta-vidro-banheiro.jpg",
+    "url": "https://www.vidroscristalcenter.com.br/assets/img/img-mpi/porta-de-vidro-para-banheiro-1.jpg",
+    "bytes": 25516,
+    "source": "Catálogo_Vidros_Imagens.html — fornecido pelo cliente. Fotografias: Vidros Cristal Center.",
+    "processing": "Fotografia original baixada e incorporada sem alteração.",
+    "kind": "reference"
+  },
+  "vidro-catalogo-prateleira-vidro-banheiro": {
+    "image": "assets/vidro-catalogo-prateleira-vidro-banheiro.jpg",
+    "url": "https://www.vidroscristalcenter.com.br/assets/img/img-mpi/prateleira-de-vidro-para-banheiro-1.jpg",
+    "bytes": 40825,
+    "source": "Catálogo_Vidros_Imagens.html — fornecido pelo cliente. Fotografias: Vidros Cristal Center.",
+    "processing": "Fotografia original baixada e incorporada sem alteração.",
+    "kind": "reference"
+  },
+  "glass-catalog": {
+    "source": "Catálogo_Vidros_Imagens.html",
+    "local_copy": "catalogos/catalogo-vidros.html",
+    "items": 6,
+    "note": "Nomes preservados. Imagens locais, créditos e botão de impressão mantidos. Incluído em Serviços e Materiais."
+  }
+}
