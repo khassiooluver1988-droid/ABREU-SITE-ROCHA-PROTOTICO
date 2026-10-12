@@ -656,3 +656,12 @@ dialog::backdrop { background: #15191de0; }
   .brand-name { width: min(48vw, 185px); }
   .brand-caption { font-size: 11px; }
 }
+
+/* Rocha — correção de visibilidade da marca no cabeçalho (013) */
+:root { --header-height: 124px; }
+.brand { gap: 15px; }
+.brand-symbol { width: 92px; height: 100px; }
+.brand-name { width: 285px; }
+.brand-caption { font-size: 18px; letter-spacing: .16em; }
+@media (max-width: 900px) { :root { --header-height: 102px; } .brand-symbol { width: 72px; height: 80px; } .brand-name { width: 205px; } .brand-caption { font-size: 14px; } }
+@media (max-width: 480px) { .brand { gap: 8px; } .brand-symbol { width: 58px; height: 66px; } .brand-name { width: 155px; } .brand-caption { font-size: 11px; letter-spacing: .1em; } }
