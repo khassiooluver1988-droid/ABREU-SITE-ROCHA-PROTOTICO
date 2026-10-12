@@ -635,3 +635,24 @@ dialog::backdrop { background: #15191de0; }
   .imported-highlight { padding: 26px 22px; }
   .hero-application > figcaption { right: 18px; bottom: 18px; }
 }
+
+/* Ajuste 013: logomarca mais visível no cabeçalho */
+@media (min-width: 961px) {
+  :root { --header-height: 124px; }
+  .brand { gap: 16px; }
+  .brand-symbol { width: 92px; height: 101px; }
+  .brand-name { width: 290px; }
+  .brand-caption { font-size: 18px; letter-spacing: .16em; }
+  .site-header nav { gap: 16px; }
+}
+@media (max-width: 960px) {
+  .brand { gap: 9px; }
+  .brand-symbol { width: 62px; height: 68px; }
+  .brand-name { width: min(48vw, 235px); }
+  .brand-caption { font-size: 13px; letter-spacing: .1em; }
+}
+@media (max-width: 420px) {
+  .brand-symbol { width: 53px; height: 58px; }
+  .brand-name { width: min(48vw, 185px); }
+  .brand-caption { font-size: 11px; }
+}
